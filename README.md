@@ -22,13 +22,13 @@ Denkt euch etwas aus, das euch Spaß macht - ihr arbeitet das ganze Semester dar
 -= ToDo: Bildet eine Gruppe mit 5 bis 7 Studierenden und schreibt die Namen hier auf. =-
 
 ### Mitglieder
-1. Name, Vorname, E-Mail-Adresse  
-2. Name, Vorname, E-Mail-Adresse  
+1. Alpar Mirza Özkan, e230503069@stud.tau.edu.tr 
+2. Berkay Sefer , e220503028@stud.tau.edu.tr  
 3. Name, Vorname, E-Mail-Adresse  
 4. Name, Vorname, E-Mail-Adresse  
 5. Name, Vorname, E-Mail-Adresse  
 6. Name, Vorname, E-Mail-Adresse  
-7. Name, Vorname, E-Mail-Adresse  
+
 
 ---
 
@@ -37,10 +37,10 @@ Denkt euch etwas aus, das euch Spaß macht - ihr arbeitet das ganze Semester dar
 -= ToDo: Beschreibt euer Projekt **kurz** (so, dass es in 3 Minuten erklärt ist). =-
 
 **Projektname:**  
--= ToDo =-  
+*Etkinlik Kataloğu
 
 **Beschreibung:**  
--= ToDo =-  
+Bu projedeki amacımız insanların kluplerin şirketlerin kendi etkinliklerini herkesin görebildiği bir platformda paylaşması ve yakınındaki insanların bunları görüp ona göre katılmak isterlerse katılım için onaylaması.Bu web sitenin amacı aslında kendi kendine istediği alanlarda veya uğraşlarda bir grubun parçası olmak isteyenlerin ve bir etkinlik paylaşmak isteyenlerin kendilerine bir uğraş bulması ve grup şeklinde yapılmasının kolaylaştırılımasıdır. 
 
 ---
 
