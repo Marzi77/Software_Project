@@ -1,2 +1,89 @@
 # Software_Project
 Bu il ödev için gereken yerler
+# Hausaufgabe 1 - Gruppenbildung & Projektidee
+
+**Eine Abgabe pro Gruppe ist genug.**
+
+---
+
+## Erklärung
+Im Laufe des Semesters arbeitet ihr an einem Projekt.
+Das ist eine **Gruppenarbeit**.  
+
+In dieser Aufgabe sollt ihr:  
+1. Eine Gruppe bilden,  
+2. Eine Projektidee finden.  
+
+Denkt euch etwas aus, das euch Spaß macht - ihr arbeitet das ganze Semester daran!
+
+---
+
+## Gruppe
+-= ToDo: Bildet eine Gruppe mit 5 bis 7 Studierenden und schreibt die Namen hier auf. =-
+
+### Mitglieder
+1. Name, Vorname, E-Mail-Adresse  
+2. Name, Vorname, E-Mail-Adresse  
+3. Name, Vorname, E-Mail-Adresse  
+4. Name, Vorname, E-Mail-Adresse  
+5. Name, Vorname, E-Mail-Adresse  
+6. Name, Vorname, E-Mail-Adresse  
+7. Name, Vorname, E-Mail-Adresse  
+
+---
+
+## Projekt
+-= ToDo: Überlegt euch eine Projektidee und einen Projektnamen. =-  
+-= ToDo: Beschreibt euer Projekt **kurz** (so, dass es in 3 Minuten erklärt ist). =-
+
+**Projektname:**  
+-= ToDo =-  
+
+**Beschreibung:**  
+-= ToDo =-  
+
+---
+
+## Grober Projektplan
+-= ToDo: Erstellt einen **groben** Plan für euer Projekt. =-  
+- Was müsst ihr machen?  
+- Wie lange dauert es ungefähr?  
+- Welche Probleme könnten auftreten?  
+
+---
+
+### Beispiel (Projekt: „Pizza machen“)
+
+**Aufgabe 1 – Teig vorbereiten**  
+- **Beschreibung:** Ich mache einen Teig aus Wasser, Mehl, Salz, Hefe und Öl.  
+- **Dauer:** 10 Minuten  
+- **Problem:** Es könnte zu wenig Mehl da sein.  
+
+---
+
+**Aufgabe 2 – Teig gehen lassen**  
+- **Beschreibung:** Der Teig muss an einem warmen Ort ruhen. Die Schüssel ist abgedeckt. Die Hefe macht den Teig luftig.  
+- **Dauer:** 45 Minuten  
+
+---
+
+**Aufgabe 3 – Teig ausrollen & belegen**  
+- **Beschreibung:** Ich teile den Teig, rolle ihn aus und belege ihn mit Tomatensauce, Salami und Käse.  
+- **Dauer:** 15 Minuten  
+- **Problem:** Wir müssen uns einigen, welche Zutaten wir nehmen.  
+
+---
+
+**Aufgabe 4 – Pizza backen & essen**  
+- **Beschreibung:** Der Teig kommt auf ein Blech in den Ofen. Backzeit: 10–15 Minuten bei 180 °C. Danach wird die Pizza gegessen.  
+- **Dauer:** 10–15 Minuten  
+- **Problem:** Die Pizza ist sehr heiß. Wir müssen kurz warten.  
+
+---
+
+## Hinweise
+- Bilder könnt ihr z. B. bei [imgur](https://www.imgur.com) hochladen und verlinken.  
+  Beispiel: [Ein Bild einer Pizza](https://i.imgur.com/PmEODOY.jpg)  
+
+- Mehr Informationen zu Markdown findet ihr hier:  
+  [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
