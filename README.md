@@ -24,10 +24,11 @@ Denkt euch etwas aus, das euch Spaß macht - ihr arbeitet das ganze Semester dar
 ### Mitglieder
 1. Alpar Mirza Özkan, e230503069@stud.tau.edu.tr 
 2. Berkay Sefer , e220503028@stud.tau.edu.tr  
-3. Berkay Aysel, e210503021@stud.tau.edu.tr
-4. Name, Vorname, E-Mail-Adresse  
+3. Berkay Aysel , e210503021@stud.tau.edu.tr
+4. Suden Çelik , e220503032@stud.tau.edu.tr
 5. Name, Vorname, E-Mail-Adresse  
 6. Name, Vorname, E-Mail-Adresse  
+7. Name, Vorname, E-Mail-Adresse  
 
 
 ---
